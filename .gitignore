@@ -1,0 +1,14 @@
+*.DS_Store
+.idea
+sites/*/settings.php
+sites/*/files/*
+sites/*/services.yml
+default/default.settings.php
+default/default.services.yml
+default/settings.php
+default/files/*
+sites/sites.php
+*.map
+console/cache/*
+readme.txt
+README.txt
