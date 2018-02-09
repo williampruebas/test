@@ -5,3 +5,11 @@ car-cupcakes:
   dependencies:
     - core/jquery
     - core/drupalSettings
+
+invoices-cupcakes:
+  version: 1.x
+  js:
+    js/invoices_cupcakes.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

@@ -16,6 +16,12 @@ function cupcakes_shop_theme($existing, $type, $theme, $path) {
       ],
       'template' => 'block--sale-cupcakes'
     ],
+    'invoice_cupcakes'  => [
+      'variables' =>  [
+        'data' => []
+      ],
+      'template' => 'block--invoice-cupcakes'
+    ],
   ];
 }
 

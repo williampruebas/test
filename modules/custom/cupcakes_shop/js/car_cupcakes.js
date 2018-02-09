@@ -5,13 +5,11 @@
 
 function getCupcake(node) {
   response = httpGet(node, "add");
-  console.log(response);
   jQuery(".amount-cupcakes").text("CUPCAKES ( " + response + " )");
 }
 
 function delCupcake(node) {
   response = httpGet(node, "del");
-  console.log(response);
   jQuery(".amount-cupcakes").text("CUPCAKES ( " + response + " )");
 }
 

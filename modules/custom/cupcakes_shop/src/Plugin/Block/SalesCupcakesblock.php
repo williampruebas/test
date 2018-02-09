@@ -63,6 +63,7 @@ class SalesCupcakesblock extends BlockBase {
    * {@inheritdoc}
    */
   public function build() {
+    \Drupal::service('page_cache_kill_switch')->trigger();
     $count = 0;
     foreach ($_SESSION['cupcakes'] as $type) {
       $count+= count($type);
@@ -81,8 +82,6 @@ class SalesCupcakesblock extends BlockBase {
       ],
     ];
   
-    return $build;
-
     return $build;
   }
 

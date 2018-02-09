@@ -8,7 +8,7 @@ use Drupal\rest\ResourceResponse;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;
 use Psr\Log\LoggerInterface;
-
+use Drupal\cupcakes_shop\Entity\SalesEntity;
 /**
  * Provides a resource to get view modes by entity and bundle.
  *
@@ -103,6 +103,11 @@ class AddRemoveSaleRestResource extends ResourceBase {
           $cupcakes[$_GET['node']] = $aux;
         }
         break;
+  
+      case 'confirm':
+        $this->saveSales();
+        return new ResourceResponse ('ok');
+        break;
     }
   
     $count = 0;
@@ -115,4 +120,35 @@ class AddRemoveSaleRestResource extends ResourceBase {
     return new ResourceResponse($count);
   }
   
+  public function saveSales() {
+    $invoice = date('Y-m-d');
+
+    $id = strtotime($invoice);
+    
+    $uid = \Drupal::currentUser()->id();
+  
+    $values = [];
+    
+    foreach ($_SESSION['cupcakes'] as $key => $cupcakes) {
+      $values [] = [
+        'id' => $id,
+        'amount' => count($cupcakes),
+        'month' => date('F'),
+        'invoice' => $invoice,
+        'cupcake' => $key,
+        'user_id'=> $uid,
+      ];
+    }
+  
+  
+    $query = \Drupal::database()->insert('sales')->fields(['id', 'amount', 'month', 'invoice', 'cupcake', 'user_id']);
+    foreach ($values as $record) {
+      $query->values($record);
+    }
+    $query->execute();
+    
+    
+    unset($_SESSION['cupcakes']);
+    unset($_SESSION['table_data']);
+  }
 }
