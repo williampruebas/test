@@ -2,126 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863279fa-75c0-4e7c-aa84-572f2705d2fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Autoloader/Psr4Autoloader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Autoloader/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/CSV.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/EscaperInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/ODS.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/XLSX.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/EncodingConversionException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/IOException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/SpoutException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/UnsupportedTypeException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/EncodingHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/FileSystemHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/GlobalFunctionsHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/StringHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Singleton.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/AbstractReader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/Reader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/ReaderOptions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/RowIterator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/Sheet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/SheetIterator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Common/ReaderOptions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Common/XMLProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/IteratorNotRewindableException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/NoSheetsFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/ReaderException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/ReaderNotOpenedException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/SharedStringNotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/XMLProcessingException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/IteratorInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Helper/CellValueFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Helper/SettingsHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Reader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/ReaderOptions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/RowIterator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Sheet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/SheetIterator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ReaderFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ReaderInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/SheetInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Wrapper/XMLInternalErrorsHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Wrapper/XMLReader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/CellHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/CellValueFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/DateFormatHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/CachingStrategyFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/CachingStrategyInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/FileBasedStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/InMemoryStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SheetHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/StyleHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Reader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/ReaderOptions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/RowIterator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Sheet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/SheetIterator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/AbstractMultiSheetsWriter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/AbstractWriter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/CSV/Writer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Helper/AbstractStyleHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Helper/CellHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Helper/ZipHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Internal/AbstractWorkbook.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Internal/WorkbookInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Internal/WorksheetInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Sheet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/Border/InvalidNameException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/Border/InvalidStyleException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/Border/InvalidWidthException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/InvalidColorException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/InvalidSheetNameException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/SheetNotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/WriterAlreadyOpenedException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/WriterException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/WriterNotOpenedException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Helper/BorderHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Helper/FileSystemHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Helper/StyleHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Internal/Workbook.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Internal/Worksheet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Writer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/Border.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/BorderBuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/BorderPart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/Color.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/Style.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/StyleBuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/WriterFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/WriterInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/BorderHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/FileSystemHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/SharedStringsHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/StyleHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Internal/Workbook.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Internal/Worksheet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Writer.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/LICENSE.txt" afterPath="$PROJECT_DIR$/modules/contrib/ctools/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/composer.json" afterPath="$PROJECT_DIR$/modules/contrib/ctools/composer.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/config/schema/ctools.schema.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/config/schema/ctools.schema.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/ctools.info.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/ctools.info.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/ctools.module" afterPath="$PROJECT_DIR$/modules/contrib/ctools/ctools.module" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/ctools.services.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/ctools.services.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/config/schema/ctools_block.schema.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/config/schema/ctools_block.schema.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/ctools_block.info.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/ctools_block.info.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/src/Plugin/Block/EntityField.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/src/Plugin/Block/EntityField.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/src/Plugin/Deriver/EntityFieldDeriver.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/src/Plugin/Deriver/EntityFieldDeriver.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.base_field_override.node.ctools_block_field_test.promote.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.base_field_override.node.ctools_block_field_test.promote.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_form_display.node.ctools_block_field_test.default.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_form_display.node.ctools_block_field_test.default.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_view_display.node.ctools_block_field_test.default.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_view_display.node.ctools_block_field_test.default.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_view_display.node.ctools_block_field_test.teaser.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/core.entity_view_display.node.ctools_block_field_test.teaser.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.field.node.ctools_block_field_test.body.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.field.node.ctools_block_field_test.body.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.field.node.ctools_block_field_test.field_image.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.field.node.ctools_block_field_test.field_image.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.storage.node.field_image.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/field.storage.node.field_image.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/node.type.ctools_block_field_test.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/config/install/node.type.ctools_block_field_test.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/ctools_block_field_test.info.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/modules/ctools_block_field_test/ctools_block_field_test.info.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_block/tests/src/Functional/EntityFieldBlockTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_block/tests/src/Functional/EntityFieldBlockTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/ctools_views.info.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/ctools_views.info.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/ctools_views.module" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/ctools_views.module" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/src/Plugin/Display/Block.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/src/Plugin/Display/Block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/src/Tests/CToolsViewsBasicViewBlockTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/src/Tests/CToolsViewsBasicViewBlockTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/tests/modules/ctools_views_test_views/ctools_views_test_views.info.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/tests/modules/ctools_views_test_views/ctools_views_test_views.info.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/tests/modules/ctools_views_test_views/test_views/views.view.ctools_views_entity_test.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/tests/modules/ctools_views_test_views/test_views/views.view.ctools_views_entity_test.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/modules/ctools_views/tests/modules/ctools_views_test_views/test_views/views.view.ctools_views_test_view.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/modules/ctools_views/tests/modules/ctools_views_test_views/test_views/views.view.ctools_views_test_view.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Access/AccessInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Access/AccessInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Access/TempstoreAccess.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Access/TempstoreAccess.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Ajax/OpenModalWizardCommand.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Ajax/OpenModalWizardCommand.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Annotation/Relationship.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Annotation/Relationship.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/ConstraintConditionInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/ConstraintConditionInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Context/AutomaticContext.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Context/AutomaticContext.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Context/EntityLazyLoadContext.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Context/EntityLazyLoadContext.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/ContextMapper.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/ContextMapper.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/ContextMapperInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/ContextMapperInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/ContextNotFoundException.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/ContextNotFoundException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Controller/WizardEntityFormController.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Controller/WizardEntityFormController.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Controller/WizardFormController.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Controller/WizardFormController.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Event/WizardEvent.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Event/WizardEvent.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/AjaxFormTrait.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/AjaxFormTrait.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ConditionConfigure.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ConditionConfigure.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ConditionDelete.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ConditionDelete.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ContextConfigure.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ContextConfigure.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ContextDelete.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ContextDelete.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ManageConditions.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ManageConditions.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ManageContext.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ManageContext.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ManageResolverRelationships.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ManageResolverRelationships.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/RelationshipConfigure.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/RelationshipConfigure.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/RequiredContext.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/RequiredContext.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/RequiredContextDelete.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/RequiredContextDelete.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ResolverRelationshipConfigure.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ResolverRelationshipConfigure.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Form/ResolverRelationshipDelete.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Form/ResolverRelationshipDelete.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/ParamConverter/TempstoreConverter.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/ParamConverter/TempstoreConverter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Block/EntityView.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Block/EntityView.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/BlockPluginCollection.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/BlockPluginCollection.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/BlockVariantInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/BlockVariantInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/BlockVariantTrait.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/BlockVariantTrait.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Condition/EntityBundle.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Condition/EntityBundle.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Condition/NodeType.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Condition/NodeType.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/EntityBundle.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/EntityBundle.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/EntityDeriverBase.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/EntityDeriverBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/EntityViewDeriver.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/EntityViewDeriver.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/TypedDataEntityRelationshipDeriver.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/TypedDataEntityRelationshipDeriver.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/TypedDataLanguageRelationshipDeriver.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/TypedDataLanguageRelationshipDeriver.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/TypedDataPropertyDeriverBase.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/TypedDataPropertyDeriverBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Deriver/TypedDataRelationshipDeriver.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Deriver/TypedDataRelationshipDeriver.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/DisplayVariant/BlockDisplayVariant.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/DisplayVariant/BlockDisplayVariant.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/PluginWizardInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/PluginWizardInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Relationship/TypedDataEntityRelationship.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Relationship/TypedDataEntityRelationship.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Relationship/TypedDataLanguageRelationship.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Relationship/TypedDataLanguageRelationship.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/Relationship/TypedDataRelationship.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/Relationship/TypedDataRelationship.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/RelationshipBase.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/RelationshipBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/RelationshipInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/RelationshipInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/RelationshipManager.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/RelationshipManager.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/RelationshipManagerInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/RelationshipManagerInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/VariantCollectionInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/VariantCollectionInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/VariantCollectionTrait.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/VariantCollectionTrait.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Plugin/VariantPluginCollection.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Plugin/VariantPluginCollection.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Routing/Enhancer/WizardEnhancer.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Routing/Enhancer/WizardEnhancer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/SerializableTempstore.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/SerializableTempstore.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/SerializableTempstoreFactory.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/SerializableTempstoreFactory.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Testing/EntityCreationTrait.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Testing/EntityCreationTrait.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Tests/Wizard/CToolsWizardTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Tests/Wizard/CToolsWizardTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/TypedDataResolver.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/TypedDataResolver.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Wizard/EntityFormWizardBase.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Wizard/EntityFormWizardBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Wizard/EntityFormWizardInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Wizard/EntityFormWizardInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Wizard/FormWizardBase.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Wizard/FormWizardBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Wizard/FormWizardInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Wizard/FormWizardInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Wizard/WizardFactory.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Wizard/WizardFactory.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/src/Wizard/WizardFactoryInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/src/Wizard/WizardFactoryInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/templates/ctools-wizard-trail-links.html.twig" afterPath="$PROJECT_DIR$/modules/contrib/ctools/templates/ctools-wizard-trail-links.html.twig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/templates/ctools-wizard-trail.html.twig" afterPath="$PROJECT_DIR$/modules/contrib/ctools/templates/ctools-wizard-trail.html.twig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/config/schema/ctools_wizard_test_config_entity.schema.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/config/schema/ctools_wizard_test_config_entity.schema.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.info.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.info.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.links.action.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.links.action.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.links.menu.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.links.menu.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.routing.yml" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/ctools_wizard_test.routing.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Entity/ExampleConfigEntity.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Entity/ExampleConfigEntity.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/ExampleConfigEntityInterface.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/ExampleConfigEntityInterface.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/ExampleConfigEntityListBuilder.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/ExampleConfigEntityListBuilder.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityDeleteForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityDeleteForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityExistingForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityExistingForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityExternalForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityExternalForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityGeneralForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityGeneralForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityOneForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityOneForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityTwoForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/ExampleConfigEntityTwoForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/OneForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/OneForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Form/TwoForm.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Form/TwoForm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Wizard/EntityAddWizardTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Wizard/EntityAddWizardTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Wizard/EntityEditWizardTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Wizard/EntityEditWizardTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/modules/ctools_wizard_test/src/Wizard/WizardTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/modules/ctools_wizard_test/src/Wizard/WizardTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/RelationshipManagerTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/RelationshipManagerTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/RelationshipsTestBase.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/RelationshipsTestBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/SerializableTempstoreTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/SerializableTempstoreTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/TypedDataEntityRelationshipPluginTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/TypedDataEntityRelationshipPluginTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/TypedDataLanguageRelationshipPluginTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/TypedDataLanguageRelationshipPluginTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/TypedDataRelationshipPluginTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/TypedDataRelationshipPluginTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Kernel/TypedDataResolverTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Kernel/TypedDataResolverTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Unit/BlockDisplayVariantTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Unit/BlockDisplayVariantTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Unit/BlockPluginCollectionTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Unit/BlockPluginCollectionTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Unit/BlockVariantTraitTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Unit/BlockVariantTraitTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Unit/ContextMapperTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Unit/ContextMapperTest.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/modules/ctools/tests/src/Unit/VariantCollectionTraitTest.php" afterPath="$PROJECT_DIR$/modules/contrib/ctools/tests/src/Unit/VariantCollectionTraitTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/drupal/coder" afterPath="$PROJECT_DIR$/vendor/drupal/coder" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -136,11 +146,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="InvoicesCupcakesblock.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="42" column="3" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ReportsBlock.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="15" />
+            <state relative-caret-position="521">
+              <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
               <folding>
                 <element signature="e#53#85#0#PHP" expanded="true" />
               </folding>
@@ -148,36 +168,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="block--report-cupcakes.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--report-cupcakes.html.twig">
+      <file leaf-file-name="SalesCupcakesblock.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="512">
+              <caret line="89" column="3" lean-forward="false" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvoiceGenerateService.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="215" column="12" lean-forward="false" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
-              <folding>
-                <element signature="e#49#77#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddRemoveSaleRestResource.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="125" column="16" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
-              <folding>
-                <element signature="e#61#107#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -217,16 +213,16 @@
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/GenerateInvoiceRestResource.php" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.libraries.yml" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--invoice-cupcakes.html.twig" />
-        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Entity/SalesEntity.php" />
-        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/js/invoices_cupcakes.js" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php" />
-        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" />
-        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--report-cupcakes.html.twig" />
         <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php" />
       </list>
     </option>
   </component>
@@ -286,6 +282,86 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radix_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radix_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="radix_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -479,32 +555,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="custom" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cupcakes_shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -600,12 +650,12 @@
       <workItem from="1518034556984" duration="1222000" />
       <workItem from="1518040529679" duration="3025000" />
       <workItem from="1518096169562" duration="12105000" />
-      <workItem from="1518138501297" duration="41657000" />
+      <workItem from="1518138501297" duration="43163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58009000" />
+    <option name="totallyTimeSpent" value="59515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="70" width="1245" height="716" extended-state="0" />
@@ -844,14 +894,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/templates/layout/cupcakes-layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.services.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -948,14 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/js/invoices_cupcakes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Type.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -980,55 +1014,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="55" lean-forward="false" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--invoice-cupcakes.html.twig">
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/templates/layout/cupcakes-layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="17" selection-end-column="8" />
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php">
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="125" column="16" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
-          <folding>
-            <element signature="e#61#107#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="15" />
-          <folding>
-            <element signature="e#53#85#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1040,13 +1038,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--invoice-cupcakes.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="65" lean-forward="false" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/js/invoices_cupcakes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="215" column="12" lean-forward="false" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
+        <state relative-caret-position="645">
+          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
           <folding>
             <element signature="e#49#77#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="149" column="4" lean-forward="true" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="4" />
+          <folding>
+            <element signature="e#61#107#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="42" column="3" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+          <folding>
+            <element signature="e#53#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="89" column="3" lean-forward="false" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
