@@ -1,0 +1,5 @@
+entity.sales_entity.add_form:
+  route_name: entity.sales_entity.add_form
+  title: 'Add Sales entity'
+  appears_on:
+    - entity.sales_entity.collection

@@ -1,0 +1,16 @@
+<div class="cupcakes-wrapper">
+  {% if content.main %}
+    <div class="top-region col s12">
+      {{ content.main }}
+    </div>
+  {% endif %}
+  {% if content.left %}
+    <div class="full-width-top-region col s12">
+      {{ content.left }}
+    </div>
+    <div class="buttons-wrapper">
+        <a onclick="getCupcake({{ nid[0]['value'] }})">ADD</a>
+        <a onclick="delCupcake({{ nid[0]['value'] }})">REMOVE</a>
+    </div>
+  {% endif %}
+</div>

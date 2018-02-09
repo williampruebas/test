@@ -1,0 +1,19 @@
+<div class="invoices">
+  <table style="width:100%">
+    <tr>
+      <th>Cupcake</th>
+      <th>pieces</th>
+      <th>Value</th>
+    </tr>
+    {% for item in data.table %}
+      <tr>
+        {% for field in item %}
+          <th>{{ field }}</th>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </table>
+  <div class="confirm">
+    <a href="{{ data.file }}" download="factura" onclick="downloadInvoice()">Download</a>
+  </div>
+</div>

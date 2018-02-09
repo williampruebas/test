@@ -1,0 +1,4 @@
+services:
+ cupcakes_shop.invoice_service:
+    class: Drupal\cupcakes_shop\Services\InvoiceGenerateService
+    arguments: []

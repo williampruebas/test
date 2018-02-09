@@ -2,130 +2,126 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863279fa-75c0-4e7c-aa84-572f2705d2fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/images/icon/icon-apps-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/images/icon/icon-apps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/images/icon/icon-panopoly-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/images/icon/icon-panopoly.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/images/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/js/radix_test.script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/base/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/base/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/base/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/base/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/bootswatch/_bootswatch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/bootswatch/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_menu.main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_node.article.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_node.page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/components/_view.frontpage.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/layout/_page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/assets/scss/radix_test.style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/block.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/comment.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/field.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/form.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/menu.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/nav.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/node.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/structure.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/theme.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/user.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/includes/view.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/radix_test.breakpoints.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/radix_test.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/radix_test.libraries.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/radix_test.theme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix_test/yarn.lock" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--local-actions-bloc_ZhkNtgN-0zrQhjbjp8Rn662GE/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--local-actions-bloc_ZhkNtgN-0zrQhjbjp8Rn662GE/aScbEE1P2eF5wpSLq0YiF55NE1_NpNHMlIspbWZOxP4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--local-tasks-block._XrY-Gbbe_3ZGK_eVUo36wAuEb/9U294_FemzGAQzdQXFezOb0iED2H-ThIm64BPHSrses.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--search-form-block._-9HtaDVE8pCe5SyzLjs47G6RZ/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--search-form-block._-9HtaDVE8pCe5SyzLjs47G6RZ/Gaj_5Dwd1fS6n7bKzEvfTS9-ORMA3UCyK09qk1zVSB8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--search-form-block._XvcglJkCAjPFIFcXZlg_iuycU/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--search-form-block._XvcglJkCAjPFIFcXZlg_iuycU/wW382zJTogkWg_o-vu5ttgr4vIREkLSYY5Whi0ZKNOg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-branding-bl_72GkZTYHvldCdMcY-Fr9WtVSZ/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-branding-bl_72GkZTYHvldCdMcY-Fr9WtVSZ/C6ahv2xsMCqQCAnsQSJUyGVGu9FosxokPOhbdLWuIAo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-menu-block._1hXD0762SwwNpzV7K2aSpV7W5/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-menu-block._1hXD0762SwwNpzV7K2aSpV7W5/fdtld0CT7NaQO9ILLqc7T2wgRyMKBzff-oN3nUQDN5I.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-menu-block._2hNSCNK6Y2jmAWQaMH3vksp4p/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-menu-block._2hNSCNK6Y2jmAWQaMH3vksp4p/1K9A5R3fzxguo7ouDGM5vVYoRq_3xnzSB7FKNFVLb1Y.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block--system-messages-bl_ZI0iUqt_t91aPosCA454NgoNz/gq04OJI3RemuDR1RQn3ZV6n_U9zYpJ5NZjYvtTu5sqY.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block.html.twig_NJ8S4QqIhiqAiD3IV7bDf1Kr1/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block.html.twig_NJ8S4QqIhiqAiD3IV7bDf1Kr1/DXxFX5da31qZkEr2EyJTdhHmyNPbtFp0hTQGtamIQ-s.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block.html.twig_RaxcD_Ozyj4rZR7jTJXMDcNYp/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block.html.twig_RaxcD_Ozyj4rZR7jTJXMDcNYp/qdCZ9EyIxa4u_CglP1mu8OapUFL5xasWiekTgfiCGHE.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_block.html.twig_SPyKCXAOAP3fcdrOgkAHxAZj_/5Haiw7-IHT_vcIQ7izxUL5uBdMfAFdj-TKEHk2zfwi8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_breadcrumb.html.twig_H4UQfgZP18ZL0vxRxVUOyXGQy/qwp2xHdk5fgEBI9De_yeDlSLIZWbrpXrmBsMMIbr-FE.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_container.html.twig_5ytYVUs_gdkx819cOy1xqJ2Z_/u6dfAXD3TgN1kSk_VyhpMbtpRfklX15Wdro1WkeQlrs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_details.html.twig_fYDTvAlXbWREXiPKMJiQezIwL/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_details.html.twig_fYDTvAlXbWREXiPKMJiQezIwL/WaxKPrKOS53R8PITjHZDQHp2BKUIpNPEtltXIaaoTjQ.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_feed-icon.html.twig_GzHwYygHdH77hQiaDIr3hDVlR/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_feed-icon.html.twig_GzHwYygHdH77hQiaDIr3hDVlR/wSCb8q2_rivnmAVrjm4w3hRn3MaoSOG5jD_GPgX9bPo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_fieldset.html.twig_JMAAwhWf4E9thX8NFpCu7nvgO/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_fieldset.html.twig_JMAAwhWf4E9thX8NFpCu7nvgO/HZBYRxJB-hc2Xqsngm2R3VxB4pFqlkOwDMkj2KWYUpE.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_form--search-block-form.h_g-IqeLH1OKGXFN_QYONS3x-jt/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_form--search-block-form.h_g-IqeLH1OKGXFN_QYONS3x-jt/xW78FpqHF_F4rZdsbN5dxuoulEJebfMYLCDGKja2-Z4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_form-element-label.html.t_LIUK9REF8eGBcgyB37knqChLi/iH3Jo5euRLGyiSWKOWQA3YVZ_HITOi64Di5qNCzddkc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_form-element.html.twig_dJcTIbdx1y7B0dbOtEyyZSSZ1/7SQsxSgWxuUXKbqwYjhjZhTv67Klpg4GWrYqwso3B5A.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_form.html.twig_yB95M-mH2KEXj4tKtKISfLbel/2yWtKWLvo_VPLPfsZAG1itvRlGaXCTTAW9L7GoowPZc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_html.html.twig_gQv-GORxUVif_Pag4s-5z2NkO/oc1xU_ixaJfkf6zd56hlaTo_7u5VbIc_JqIAH4eEMo8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_image.html.twig_ITS0znd8FnUJOXPKyZZ6PppVX/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_image.html.twig_ITS0znd8FnUJOXPKyZZ6PppVX/VeK-b9ldBmJqVsHG9CpV7cU7LXK_Z1BZQIqfPgEDwtI.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_input.html.twig_jYi6QYvFpjKLYKZCId7BmHw8z/mrrzNoarFmE8amJ0fKKp0q9lWqtm_ZTSJimkNjooF58.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_install-page.html.twig_eG0YDsfcoFlt83O9OZG4ysQES/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_install-page.html.twig_eG0YDsfcoFlt83O9OZG4ysQES/Zzgha9V5OhN5rBH1i3hk3FDhqniCxdO5r9kLpc0d18I.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_item-list.html.twig_1SeskqGbWCrGtyFEp_cHSP1pB/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_item-list.html.twig_1SeskqGbWCrGtyFEp_cHSP1pB/3VSDPC-PPqALaJVL3XD7aWn57oV4zhNiyrFLhKEjUZQ.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_links.html.twig_KA9UNfGPPAAfgCg_weyFshk4D/lR-Fre4WrfIqdySiSk8tp1Nzq45wnIxu0KwIzKdSacs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_maintenance-task-list.htm_sB983SWLW9VoWXmkj9Mk9GGwW/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_maintenance-task-list.htm_sB983SWLW9VoWXmkj9Mk9GGwW/_8lZhG-NDDzfM4O8mI3AmFQvLppPa2G_HU0YB43HIio.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu--toolbar.html.twig_rEyH-nXH5XjWIMdT-yjXXlvnB/V2b31isC4c2K8FZ4yvfqY1seXxdrDwzoBTLRUu3LuQE.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu-local-action.html.tw_SmEXYQdfLExe45IPIpBWLlPo2/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu-local-action.html.tw_SmEXYQdfLExe45IPIpBWLlPo2/TM9RIc6VS1mqBU8AtLSYqsLz4QSiGUYIsWefaomUCRc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu-local-task.html.twig_CyZBDRlpXnhaZDz3KzNHr4Ys1/03zlKisbSyeglaZDGkvllL_FKDxmYUXsM6iSI35omto.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu-local-tasks.html.twi_-U9q0KfMoCml9W-9XJZZCwICm/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu-local-tasks.html.twi_-U9q0KfMoCml9W-9XJZZCwICm/aEIS_-0TrOE8ga4Tb3HGxM5JxvxdwMZS8auUr6HH94Q.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu-local-tasks.html.twi_vZrEgCVxmQOJgo2t80yArbQKF/qikbhnQ2fv3Ob_ObrQLlKj4HiX-OfzvVynGxNvd0gnw.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu.html.twig_6_49nUJrABYdgsuH1VhK8sIfM/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_menu.html.twig_6_49nUJrABYdgsuH1VhK8sIfM/Odzuvw51n9QOEJEI_Cu-gdNYdDogXheHfART7qHmrQ4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_page-title.html.twig_Kj22JzrbuWqFmqffbsmZOndRV/hyPK0dYsiKlk0MAl_gqPXsaOIzJxNhHrwm_nqyPT5eE.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_page-title.html.twig_ru8-oS6iQHH9XXT9fI_2HbHtS/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_page-title.html.twig_ru8-oS6iQHH9XXT9fI_2HbHtS/CgUvuZ7hwotrKVDy_o3yZjpdKcouSRHZcIkEGikr7Ao.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_page.html.twig_bSBFdzJm9gjsbRg0uQYoaPOTU/gpUb5lwbECtF7VMovq7MhKdEV-QT1tRP287rQv8AxKo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_page.html.twig_u5wurMyx4yyLrcXBTHkEErVIO/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_page.html.twig_u5wurMyx4yyLrcXBTHkEErVIO/vGhTZzUqb_saWlitIsoE51lxb8ongdfUz7TZWQAZf8Y.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_pager.html.twig_sbCI69R_UAdtPaGn0ZzTyeyem/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_pager.html.twig_sbCI69R_UAdtPaGn0ZzTyeyem/AI6HcIIJ8eCguOf67BeW0yFbRG1d8NB5_W9h-qH3awo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_progress-bar.html.twig_KLZjEpo-27Ghv3Yyd1ETcZ2Of/-qt67DQiETaBOiUxz3y9Z9cUGjtYHwzRa_Z0ycdQKnU.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_progress-bar.html.twig_KLZjEpo-27Ghv3Yyd1ETcZ2Of/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_region--header.html.twig_lzq1A9ghT2jjveN_i8p4TyuUy/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_region--header.html.twig_lzq1A9ghT2jjveN_i8p4TyuUy/9YG0J7KveTOuL6UYC1DsE8vcI4MDGbCddJPehp5peEk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_region.html.twig_MR3fMmw95qbpuDFvbyuI9QHlG/lNbk4Un8iU_dThAnP6b3_di-DRIjBG_NvP1q7Npaszw.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_select.html.twig_Mr8lFiPaNe0gAm8QCjlpAZN1y/2fDZddhbL76NSakIzPDmVgm1numB1HDZL6R6in-mYVk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_status-messages.html.twig_3IhisVoQLOYIb64NBegMDuHJs/sYxC_1AybcAfJp173pyFVlFVpCE43a1q1DTwivpRGI8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_status-messages.html.twig_xfJj5DnEqpgtG2BHufPlBKzpV/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_status-messages.html.twig_xfJj5DnEqpgtG2BHufPlBKzpV/tTzxdCnO62mva4Bz5gC6FMHd8qINPUtKh6cwwmhLPsA.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_system-modules-details.ht_OsB89GytQU2wkdOHKvxlNH2Pw/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_system-modules-details.ht_OsB89GytQU2wkdOHKvxlNH2Pw/pRB5weCGjsp7dkGZzQSk9Hv-IitTnFKwcHlB2RlTIpM.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_system-themes-page.html.t_ktz3v4XmXAs-iTLgd01wn1ti6/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_system-themes-page.html.t_ktz3v4XmXAs-iTLgd01wn1ti6/bFkQDft1U2l39ZzflULVLvRsQ4msL7zYyFF6_TfmS7I.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_toolbar.html.twig_6OS5XDMFNd05xfubEcPy9VaSc/7FCIeMy3sydE226-kVHITWvGxMMNHFQ9LjPLvVjUXC0.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_user.html.twig_KTRNr226v0rq8yWMg4jpuD1r8/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_user.html.twig_KTRNr226v0rq8yWMg4jpuD1r8/GKW-mGvWlDoOmf7A1vAvsJvF2rCZTRjIfZK0n9k3u-k.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_views-view.html.twig_My8wCKNyJv0eBmdCJ1uPxYt8x/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5a7b810ad159a_views-view.html.twig_My8wCKNyJv0eBmdCJ1uPxYt8x/E29JrZQexhoi08v5XDpfpYTjAmLGaljpjzs6xoGWV0w.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Autoloader/Psr4Autoloader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Autoloader/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/CSV.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/EscaperInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/ODS.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Escaper/XLSX.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/EncodingConversionException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/IOException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/InvalidArgumentException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/SpoutException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Exception/UnsupportedTypeException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/EncodingHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/FileSystemHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/GlobalFunctionsHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/StringHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Singleton.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Type.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/AbstractReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/Reader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/ReaderOptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/RowIterator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/Sheet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/CSV/SheetIterator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Common/ReaderOptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Common/XMLProcessor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/IteratorNotRewindableException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/NoSheetsFoundException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/ReaderException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/ReaderNotOpenedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/SharedStringNotFoundException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Exception/XMLProcessingException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/IteratorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Helper/CellValueFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Helper/SettingsHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Reader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/ReaderOptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/RowIterator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/Sheet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ODS/SheetIterator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ReaderFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/ReaderInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/SheetInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Wrapper/XMLInternalErrorsHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/Wrapper/XMLReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/CellHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/CellValueFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/DateFormatHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/CachingStrategyFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/CachingStrategyInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/FileBasedStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsCaching/InMemoryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SharedStringsHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/SheetHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Helper/StyleHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Reader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/ReaderOptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/RowIterator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/Sheet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Reader/XLSX/SheetIterator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/AbstractMultiSheetsWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/AbstractWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/CSV/Writer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Helper/AbstractStyleHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Helper/CellHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Helper/ZipHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Internal/AbstractWorkbook.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Internal/WorkbookInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Internal/WorksheetInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Common/Sheet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/Border/InvalidNameException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/Border/InvalidStyleException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/Border/InvalidWidthException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/InvalidColorException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/InvalidSheetNameException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/SheetNotFoundException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/WriterAlreadyOpenedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/WriterException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Exception/WriterNotOpenedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Helper/BorderHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Helper/FileSystemHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Helper/StyleHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Internal/Workbook.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Internal/Worksheet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/ODS/Writer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/Border.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/BorderBuilder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/BorderPart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/Color.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/Style.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/Style/StyleBuilder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/WriterFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/WriterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/BorderHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/FileSystemHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/SharedStringsHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Helper/StyleHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Internal/Workbook.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Internal/Worksheet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/box/spout/src/Spout/Writer/XLSX/Writer.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php" afterPath="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -140,12 +136,48 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="radix.style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/radix/assets/css/radix.style.css">
+      <file leaf-file-name="ReportsBlock.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3360">
-              <caret line="224" column="29" lean-forward="true" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="29" />
+            <state relative-caret-position="377">
+              <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="15" />
+              <folding>
+                <element signature="e#53#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="block--report-cupcakes.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--report-cupcakes.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvoiceGenerateService.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="215" column="12" lean-forward="false" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
+              <folding>
+                <element signature="e#49#77#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddRemoveSaleRestResource.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="125" column="16" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+              <folding>
+                <element signature="e#61#107#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,11 +195,38 @@
         <option value="$PROJECT_DIR$/themes/radix_test/radix.info.yml" />
         <option value="$PROJECT_DIR$/themes/radix_test/radix_test.yml" />
         <option value="$PROJECT_DIR$/themes/radix_test/templates/page/page.html.twig" />
-        <option value="$PROJECT_DIR$/themes/radix_test/radix_test.info.yml" />
         <option value="$PROJECT_DIR$/themes/radix_test/bower.json" />
         <option value="$PROJECT_DIR$/themes/radix_test/config.json" />
         <option value="$PROJECT_DIR$/themes/radix_test/package.json" />
         <option value="$PROJECT_DIR$/themes/radix_test/radix_test.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/radix_test/radix_test.info.yml" />
+        <option value="$PROJECT_DIR$/themes/radix_test/radix_test.layouts.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes.info.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.links.task.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.permissions.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Entity/SalesEntityInterface.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Form/SalesEntityForm.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/SalesEntityHtmlRouteProvider.php" />
+        <option value="$PROJECT_DIR$/themes/radix_test/assets/css/radix_test.style.css" />
+        <option value="$PROJECT_DIR$/themes/radix_test/assets/js/radix_test.script.js" />
+        <option value="$PROJECT_DIR$/sites/default/services.yml" />
+        <option value="$PROJECT_DIR$/themes/radix_test/radix_test.theme" />
+        <option value="$PROJECT_DIR$/themes/radix_test/templates/layout/cupcakes-layout.html.twig" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/js/car_cupcakes.js" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.services.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/GenerateInvoiceRestResource.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.libraries.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--invoice-cupcakes.html.twig" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Entity/SalesEntity.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/js/invoices_cupcakes.js" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--report-cupcakes.html.twig" />
+        <option value="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php" />
       </list>
     </option>
   </component>
@@ -177,10 +236,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/themes/radix_test/node_modules" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
-    <option name="y" value="33" />
+    <option name="x" value="15" />
+    <option name="y" value="70" />
     <option name="width" value="1245" />
     <option name="height" value="716" />
   </component>
@@ -199,6 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,7 +285,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -236,11 +299,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="radix_test" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,11 +313,37 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="radix_test" />
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cupcakes_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cupcakes_shop" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -276,21 +361,152 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="radix_test" />
+              <option name="myItemId" value="custom" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="cupcakes_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cupcakes_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Services" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cupcakes_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cupcakes_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Block" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cupcakes_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,9 +519,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes" />
-      <recent name="$PROJECT_DIR$/themes/radix_test" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block" />
+      <recent name="$PROJECT_DIR$/vendor" />
+      <recent name="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource" />
+      <recent name="$PROJECT_DIR$/modules/custom/cupcakes_shop/js" />
+      <recent name="$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/contrib" />
     </key>
   </component>
   <component name="RunManager">
@@ -337,6 +558,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -372,22 +599,23 @@
       <updated>1518034555624</updated>
       <workItem from="1518034556984" duration="1222000" />
       <workItem from="1518040529679" duration="3025000" />
-      <workItem from="1518096169562" duration="5397000" />
+      <workItem from="1518096169562" duration="12105000" />
+      <workItem from="1518138501297" duration="41657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9644000" />
+    <option name="totallyTimeSpent" value="58009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="33" width="1245" height="716" extended-state="0" />
-    <editor active="false" />
+    <frame x="15" y="70" width="1245" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25768912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26184538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -413,252 +641,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/default.settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/example.sites.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/default.settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix/radix.theme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/kits/default/assets/js/default.script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix/radix.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/bower_components/jquery/src/css/var/swap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix/radix.drush.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/assets/css/radix_test.style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/templates/view/views-view.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-493">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/templates/page/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix/radix.info.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/assets/js/radix_test.script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/assets/scss/radix_test.style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-709">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/logo.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.breakpoints.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.info.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.theme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/radix_test/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -673,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,6 +683,370 @@
         <state relative-caret-position="3360">
           <caret line="224" column="29" lean-forward="true" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/assets/js/radix.script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/ds/ds.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/SalesEntityStorage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/SalesEntityStorageInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.layouts.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.links.action.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.links.menu.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.links.task.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.permissions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Form/SalesEntityDeleteForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Form/SalesEntitySettingsForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/assets/scss/radix_test.style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/assets/css/radix_test.style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/assets/js/radix_test.script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/radix_test.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9373">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix_test/templates/layout/cupcakes-layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Helper/StringHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/GenerateInvoiceRestResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="87" column="4" lean-forward="true" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/js/car_cupcakes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/SalesEntityHtmlRouteProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/SalesEntityListBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Form/SalesEntityForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Entity/SalesEntityInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/SalesEntityAccessControlHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Entity/SalesEntityViewsData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Entity/SalesEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="208" column="18" lean-forward="false" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/js/invoices_cupcakes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/box/spout/src/Spout/Common/Type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/cupcakes_shop.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--sale-cupcakes.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="55" lean-forward="false" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--invoice-cupcakes.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/rest/resource/AddRemoveSaleRestResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="125" column="16" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+          <folding>
+            <element signature="e#61#107#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/InvoicesCupcakesblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/SalesCupcakesblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Plugin/Block/ReportsBlock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="15" />
+          <folding>
+            <element signature="e#53#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/templates/block--report-cupcakes.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/cupcakes_shop/src/Services/InvoiceGenerateService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="215" column="12" lean-forward="false" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
+          <folding>
+            <element signature="e#49#77#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
