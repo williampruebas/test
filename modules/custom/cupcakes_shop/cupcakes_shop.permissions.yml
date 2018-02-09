@@ -1,0 +1,19 @@
+add sales entity entities:
+  title: 'Create new Sales entity entities'
+
+administer sales entity entities:
+  title: 'Administer Sales entity entities'
+  description: 'Allow to access the administration form to configure Sales entity entities.'
+  restrict access: true
+
+delete sales entity entities:
+  title: 'Delete Sales entity entities'
+
+edit sales entity entities:
+  title: 'Edit Sales entity entities'
+
+view published sales entity entities:
+  title: 'View published Sales entity entities'
+
+view unpublished sales entity entities:
+  title: 'View unpublished Sales entity entities'

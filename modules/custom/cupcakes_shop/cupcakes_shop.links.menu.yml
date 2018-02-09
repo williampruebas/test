@@ -1,0 +1,14 @@
+
+# Sales entity menu items definition
+entity.sales_entity.collection:
+  title: 'Sales entity list'
+  route_name: entity.sales_entity.collection
+  description: 'List Sales entity entities'
+  parent: system.admin_structure
+  weight: 100
+
+sales_entity.admin.structure.settings:
+  title: Sales entity settings
+  description: 'Configure Sales entity entities'
+  route_name: sales_entity.settings
+  parent: system.admin_structure

@@ -1,0 +1,22 @@
+# Sales entity routing definition
+sales_entity.settings_tab:
+  route_name: sales_entity.settings
+  title: 'Settings'
+  base_route: sales_entity.settings
+
+entity.sales_entity.canonical:
+  route_name: entity.sales_entity.canonical
+  base_route: entity.sales_entity.canonical
+  title: 'View'
+
+entity.sales_entity.edit_form:
+  route_name: entity.sales_entity.edit_form
+  base_route: entity.sales_entity.canonical
+  title: 'Edit'
+
+entity.sales_entity.delete_form:
+  route_name:  entity.sales_entity.delete_form
+  base_route:  entity.sales_entity.canonical
+  title: Delete
+  weight: 10
+

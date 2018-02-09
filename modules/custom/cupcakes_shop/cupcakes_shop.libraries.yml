@@ -1,0 +1,7 @@
+car-cupcakes:
+  version: 1.x
+  js:
+    js/car_cupcakes.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

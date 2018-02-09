@@ -1,0 +1,10 @@
+cupcakes_layout:
+  label: 'Cupcakes'
+  category: 'My Layouts'
+  template: templates/cupcakes-layout
+  default_region: main
+  regions:
+    main:
+      label: Main content
+    left:
+      label: left bar

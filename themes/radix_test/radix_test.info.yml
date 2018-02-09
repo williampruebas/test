@@ -6,7 +6,7 @@ screenshot: screenshot.png
 engine: twig
 type: theme
 base theme: radix
-hidden: true
+# hidden: true
 
 regions:
   navbar_branding: 'Navbar branding'

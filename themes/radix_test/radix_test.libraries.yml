@@ -1,5 +1,4 @@
 base:
-  version: VERSION
   css:
     theme:
       assets/css/radix_test.style.css: {}
