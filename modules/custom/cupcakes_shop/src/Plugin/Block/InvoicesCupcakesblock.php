@@ -20,6 +20,7 @@ class InvoicesCupcakesblock extends BlockBase {
    * {@inheritdoc}
    */
   public function build() {
+    \Drupal::service('page_cache_kill_switch')->trigger();
     $service = \Drupal::service('cupcakes_shop.invoice_service');
     $table = $service->getTable();
     $file = $service->getFile();

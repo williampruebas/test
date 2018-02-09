@@ -121,9 +121,9 @@ class AddRemoveSaleRestResource extends ResourceBase {
   }
   
   public function saveSales() {
-    $invoice = date('Y-m-d');
+    $invoice = time();
 
-    $id = strtotime($invoice);
+    $id = time();
     
     $uid = \Drupal::currentUser()->id();
   
